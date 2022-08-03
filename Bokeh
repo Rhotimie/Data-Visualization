@@ -1,0 +1,5 @@
+--Bokeh is a third party Python library used to create interactive data visualization on the browser.
+--Bokeh can also create complete web apps with graphs, user widgets, and other types of web content.
+--data for visualization can be in the form PYTHON LIST, CSV FILES,
+--data visualization is rendered by by python into some sort of HTML, CSS, JAVASCRIPT
+--widgets(like filter data, label, graph features) allow the user to interact with the graph

@@ -1,0 +1,2 @@
+This section deals with embedding bokeh graph inside flask application
+Flask is a python web framework which is used to create web application with python
